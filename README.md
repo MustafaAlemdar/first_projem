@@ -1,2 +1,2 @@
-# first_projem
+# first_project
 my cv document
